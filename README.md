@@ -1,4 +1,4 @@
-# 🚲 Bicycle Manufacturer Sales & Operations Analytics Project | SQL & Google BigQuery
+# 🚲 Bicycle Manufacturer Sales & Operations Analytics | SQL & Google BigQuery
 
 **Author:** Van Bat Phuc Tai  
 **Tools:** **SQL**, **Google BigQuery**
