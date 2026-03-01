@@ -475,3 +475,47 @@ GROUP BY
 
 
 ## 🔎 Final Conclusion & Recommendations
+🔎 Final Conclusion & Recommendations
+
+📌 Insights
+
+**Capital Is Severely Locked in Inventory & Pending Orders**
+Some SKUs show stock-to-sales ratios up to **27x** (vs. healthy ~1–2x), indicating **critical overstocking**.
+Additionally, **224 pending orders worth ~3.87M** are tying up cash and delaying revenue recognition — creating **working capital pressure**.
+
+**Customer Retention Is Critically Low**
+From **2,076 first-time buyers**, only **78 returned in Month 1 (3.7% retention)**.
+This means **over 96% churn immediately after first purchase**, significantly limiting **Customer Lifetime Value (CLV)**.
+
+**Revenue Is Concentrated — but Growth Signals Are Strong**
+Mountain Bikes generated **124,716.84 revenue (263 orders)**.
+Jerseys led in volume with **1,402 units sold (48,318.09 revenue)**.
+Meanwhile, Mountain Frames and Road Frames grew **+521% and +389% YoY**, signaling **strong expansion potential**.
+Territory 4 peaked at **26,682 orders**, consistently outperforming other regions.
+
+**Discount Costs Are Rising Without Proven ROI**
+Helmet seasonal discount costs increased from **827.65 to 1,606.04 (+94%)** without clear evidence of proportional revenue uplift — posing **margin erosion risk**.
+
+📌 Recommendations (Prioritized)
+
+**Free Up Cash Within 1–2 Quarters**
+- Freeze production for SKUs with stock-to-sales ratio **>10x**
+- Launch targeted clearance campaigns for slow-moving inventory
+- Reduce pending order processing time
+🎯 Goal: Improve turnover and unlock part of the **~3.87M tied capital**
+
+**Increase 30-Day Retention from 3.7% → 8–10%**
+- Implement automated post-purchase emails (7–14 days)
+- Offer time-limited second-purchase incentives
+🎯 Goal: Increase **CLV without raising acquisition cost**
+
+**Double Down on High-Growth Segments**
+- Increase allocation to Mountain/Road Frames (**+300–500% YoY growth**)
+- Prioritize inventory and logistics in **Territory 4 & 6**
+🎯 Goal: Scale **proven demand drivers** instead of spreading budget thin
+
+**Protect Margins Before Expanding Discounts**
+- Measure incremental revenue vs. discount cost
+- Cap discount expansion unless **ROI is validated**
+🎯 Goal: Prevent revenue growth from sacrificing **profitability**
+
