@@ -17,19 +17,75 @@
 
 ## 📌 Background & Business Context
 
-For manufacturing companies, balancing **Sales Performance**, **Inventory Control**, **Operational Efficiency**, and **Customer Retention** is essential to maintaining profitability and long-term growth.
+The company operates in the **manufacturing and retail industry**, specializing in bicycles, cycling components, and related accessories. 
 
-This project analyzes transactional and operational data from a bicycle manufacturing company using **SQL in Google BigQuery**. By transforming raw sales, production, and purchasing data into structured performance metrics, the project delivers **actionable business insights** that support **data-driven decision-making** across Sales, Supply Chain, Finance, and Executive Strategy functions.
+Its business model integrates product manufacturing, regional distribution, and multi-territory sales operations. Revenue is driven by diversified product categories and supported by coordinated Sales, Inventory, and Procurement functions.
+
+To sustain growth and operational stability, leadership requires a consolidated view of commercial performance and supply chain alignment.
+
+For manufacturing-driven organizations, balancing **Sales Performance, Inventory Control, Operational Efficiency, and Customer Retention** is essential to maintaining profitability and long-term growth.
+
+---
+
+## 🎯 Strategic Objective
+
+This project builds an integrated analytical framework to evaluate business performance across commercial and operational dimensions.
+
+The objective is to:
+
+- Monitor revenue growth across products and territories  
+- Assess product contribution and year-over-year expansion  
+- Evaluate promotional and discount impact on financial performance  
+- Measure customer retention sustainability  
+- Align inventory levels with sales demand  
+- Monitor procurement exposure and working capital risk  
+
+The goal is to connect Sales, Customer, and Supply Chain metrics into a unified, data-driven performance view.
 
 ---
 
 ## 🎯 Key Business Questions
 
-This project evaluates overall **Business Performance** by examining **Sales Growth Trends**, **Product Performance Dynamics**, and **Territory-Level Revenue Contribution**. It explores the financial impact of **Seasonal Discount Programs** and assesses **Customer Retention Behavior** through cohort analysis.
 
-In addition, the analysis investigates **Operational Efficiency** by monitoring **Inventory Fluctuations**, measuring **Stock-to-Sales Ratios**, and reviewing **Pending Purchase Orders** to better understand supply chain performance and working capital exposure.
+- Is the business delivering sustainable revenue growth across products and regions?  
+- Which segments generate the highest strategic and financial contribution?  
+- Are commercial initiatives driving profitable expansion?  
+- Is operational capacity aligned with market demand?
 
-The ultimate objective is to integrate **Sales**, **Operations**, and **Customer Metrics** into a comprehensive, data-driven view of **Business Sustainability and Performance Health**.
+---
+
+## 📊 Analytical Scope
+
+The analysis covers:
+
+- Sales order volume and revenue trend analysis  
+- Year-over-year growth by product subcategory  
+- Territory-level ranking by order quantity  
+- Financial impact of seasonal discount programs  
+- Customer retention cohort analysis  
+- Inventory trend and stock-to-sales ratio  
+- Pending purchase order value assessment  
+
+---
+
+## ❗ Business Impact
+
+In manufacturing environments, revenue growth must be supported by operational discipline. 
+
+Unbalanced promotions can erode margins.  
+Excess inventory increases carrying costs.  
+Procurement misalignment may strain working capital.  
+
+By integrating cross-functional performance metrics, this project supports:
+
+- Strategic growth planning  
+- Product portfolio optimization  
+- Territory benchmarking  
+- Promotion effectiveness evaluation  
+- Inventory and procurement efficiency  
+- Executive-level performance monitoring  
+
+This project demonstrates the ability to transform structured enterprise data into actionable business insights using advanced SQL within a modern data warehouse environment.
 
 ---
 
@@ -489,4 +545,3 @@ GROUP BY
 - **Fix Early Retention (3.7% → 8–10%):** Deploy post-purchase automation and second-order incentives to lift CLV.
 - **Scale Proven Winners:** Invest in high-growth Frames and top territories (4 & 6).
 - **Protect Profitability:** Validate discount ROI before expanding promotions.
-
